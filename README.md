@@ -1,6 +1,6 @@
-# BrickMMO CDN
+# Faker Development Tools CDN
 
-This repo is used as the BrickMMO Content Delivery Network (CDN) for BrickMMO related assets. 
+This repo is used as the Faker Development Tools Content Delivery Network (CDN) for Faker Development Tools  related assets. 
 
 ---
 
@@ -14,9 +14,9 @@ This project uses vanilla [Markdown](https://www.markdownguide.org/).
 
 ## Repo Resources
 
-* [BrickMMO](https://www.brickmmo.com/)
-* [BrickMMO CDN](https://cdn.brickmmo.com/)
+* [Faker Developer Tools](https://www.faker.ca/)
+* [Faker Developer Tools CDN](https://cdn.faker.ca/)
 
 <a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
+<img src="https://cdn.faker.ca/images@1.0.0/faker-logo-coloured-horizontal.png" width="200">
 </a>

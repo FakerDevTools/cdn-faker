@@ -2,18 +2,18 @@
 
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
-**BrickMMO CDN is the recommended CDN for all shared BrickMMO images, icons, CSS, and JavaScript files.**
+**Faker Developer Tools CDN is the recommended CDN for all shared Faker Developer Tools images, icons, CSS, and JavaScript files.**
 
 Include CSS files by placing a `<link>` tag in the `<head>` section of your HTML document:
 
 ```
-<link rel="stylesheet" href="https://cdn.brickmmo.com/library@1.0.0/library.css">
+<link rel="stylesheet" href="https://cdn.faker.ca/library@1.0.0/library.css">
 ```
 
 Include JavaScript files by placing a `<script>` tag directly before your closing `</body>` tag in your HTML document:
 
 ```
-<script src="https://cdn.brickmmo.com/library@1.0.0/library.js"></script>
+<script src="https://cdn.fakert.ca/library@1.0.0/library.js"></script>
 ```
 
 ## Quickstart
@@ -23,11 +23,12 @@ Include JavaScript files by placing a `<script>` tag directly before your closin
 CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and prvide some additional CSS classes.
 
 ```
-https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
-https://cdn.brickmmo.com/exceptions@1.0.0/bootstrap.css
-https://cdn.brickmmo.com/exceptions@1.0.0/fontawesome.css
+https://cdn.faker.ca/exceptions@1.0.0/w3.css
+https://cdn.faker.ca/exceptions@1.0.0/bootstrap.css
+https://cdn.faker.ca/exceptions@1.0.0/fontawesome.css
 ```
 
+<!--
 ### Font Icons
 
 CSS include files to use the [BrickMMO Font Icons](https://glyphs.brickmmo.com).
@@ -69,27 +70,28 @@ https://cdn.brickmmo.com/icons@1.0.0/videokit.png
 
 > Available Versions: 1.0.0  
 > Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
+-->
 
 ## Images
 
 Common branding images from the [BrickMMO Branding Guidelines](https://branding.brickmmo.com).
 
 ```
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-black-horizontal.png
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-black.png
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
+https://cdn.brickmmo.com/images@1.0.0/faker-logo-black-horizontal.png
+https://cdn.brickmmo.com/images@1.0.0/faker-logo-black.png
+https://cdn.brickmmo.com/images@1.0.0/faker-logo-coloured-horizontal.png
+https://cdn.brickmmo.com/images@1.0.0/faker-logo-coloured.png
 ```
 
 > Available Versions: 1.0.0  
-> Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
+> Documentation: [branding.faker.ca](https://branding.faker.ca)
 
 ## Readme
 
 CSS to be included in all README.md files following the [\_readme Guidelins](readme.codeadam.ca).
 
 ```
-https://cdn.brickmmo.com/readm@1.0.0/readme.css
+https://cdn.faker.ca/readm@1.0.0/readme.css
 ```
 
 > Available Versions: 1.0.0  
@@ -97,6 +99,6 @@ https://cdn.brickmmo.com/readm@1.0.0/readme.css
 
 ---
 
-<a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
+<a href="https://faker.ca">
+<img src="https://cdn.faker.ca/images@1.0.0/faker-logo-coloured-horizontal.png" width="100">
 </a>
